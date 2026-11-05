@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+instance/
+.eggs/
+*.egg-info/
+dist/
+build/
+*.log
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
